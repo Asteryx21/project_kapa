@@ -9,19 +9,19 @@ import comingsoon from './assets/text2.png'
 
 export default function App() {
 
-  const [backgroundLoaded, setBackgroundLoaded] = useState(false);
+  // const [backgroundLoaded, setBackgroundLoaded] = useState(false);
+
+  // useEffect(() => {
+  //   window.onload = () => {
+  //     setBackgroundLoaded(true);
+  //   };
+  // }, []);
 
   useEffect(() => {
-    window.onload = () => {
-      setBackgroundLoaded(true);
-    };
-  }, []);
-
-  useEffect(() => {
-    if (backgroundLoaded) {
-      Aos.init({ duration: 2500 });
-    }
-  }, [backgroundLoaded]);
+    //if (backgroundLoaded) {
+    Aos.init({ duration: 2000 });
+    //}
+  }, []); //backgroundLoaded
 
   return (
     <div className='App'>
