@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/project_kapa/static/css/main.0dac4e31.css",
+    "main.js": "/project_kapa/static/js/main.64306889.js",
+    "static/media/video.mp4": "/project_kapa/static/media/video.0609ca53539e55107a81.mp4",
+    "static/media/fucked.jpg": "/project_kapa/static/media/fucked.8dbe28bf55a8bf933afe.jpg",
+    "static/media/text.png": "/project_kapa/static/media/text.ba681638b666e82905fa.png",
+    "static/media/text2.png": "/project_kapa/static/media/text2.00b64f44f06873da5176.png",
+    "index.html": "/project_kapa/index.html",
+    "main.0dac4e31.css.map": "/project_kapa/static/css/main.0dac4e31.css.map",
+    "main.64306889.js.map": "/project_kapa/static/js/main.64306889.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0dac4e31.css",
+    "static/js/main.64306889.js"
+  ]
+}
